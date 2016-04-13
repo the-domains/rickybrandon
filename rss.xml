@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Live More Empowered]]></title>
-        <description><![CDATA[Live More Empowered]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Ricky Brandon]]></title>
+        <description><![CDATA[Ricky Brandon]]></description>
+        <link>https://thegrid.ai/rickybrandon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 02:45:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 02:50:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rickybrandon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test.</p>]]></description>
-            <link>undefinedc6e71b8d-eff9-4627-8375-baa21da7638c/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29b7f1f4-ff25-48e8-a75d-f12bec7e10cc.jpg">]]></description>
+            <link>https://thegrid.ai/rickybrandon/c6e71b8d-eff9-4627-8375-baa21da7638c/index.html</link>
             <guid isPermaLink="false">c6e71b8d-eff9-4627-8375-baa21da7638c</guid>
-            <pubDate>Wed, 13 Apr 2016 02:45:24 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 02:49:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
